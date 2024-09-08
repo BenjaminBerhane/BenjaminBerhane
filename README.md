@@ -6,3 +6,8 @@ Kicking your can all over the place, singin'
 # 0.2 feature/chorus1
 We will, we will rock you
 We will, we will rock you
+# 0.3 feature/verse2
+Buddy, you're a young man, hard man
+Shouting in the street, gonna take on the world someday
+You got blood on your face, you big disgrace
+Waving your banner all over the place
