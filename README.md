@@ -11,3 +11,6 @@ Buddy, you're a young man, hard man
 Shouting in the street, gonna take on the world someday
 You got blood on your face, you big disgrace
 Waving your banner all over the place
+# 0.4 feature/chorus2
+We will, we will rock you, sing it!
+We will, we will rock you, yeah
