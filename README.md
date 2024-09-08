@@ -14,3 +14,8 @@ Waving your banner all over the place
 # 0.4 feature/chorus2
 We will, we will rock you, sing it!
 We will, we will rock you, yeah
+# 0.5 feature/verse3
+Buddy, you're an old man, poor man
+Pleading with your eyes, gonna get you some peace someday
+You got mud on your face, big disgrace
+Somebody better put you back into your place, do it!
